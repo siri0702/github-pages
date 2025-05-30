@@ -1,6 +1,20 @@
-version: 2
-updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "monthly"
+<!DocTYPE html>
+<htnl>
+<titles Fiery Lists ltitler
+
+estyle
+body {
+background: ttear-gradient(to bottom, maroon, brom, ttrebrack);toant-famty:“Seroe ur' 1.sans-serin calor:white;
+padding:40px
+htt
+text-align:center;
+color :orangea
+taxt-shadow: zpx 2px Spx black;
+margin-botton:NOpx;
+}
+soction{
+max-width:600ox narzint 4Cpx auto;padding: 20px;
+barder-radiis:10px
+bar- hado: 0 012px arange;
+}
+
